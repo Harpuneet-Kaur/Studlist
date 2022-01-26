@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class StudList {
 
     /**
+     * author @harpuneet
      * @param args the command line arguments
      */
     public static void main(String[] args) {
